@@ -1,23 +1,23 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-# Hi there, I'm Mohammad - aka [MAX](https://twitter.com/max_78653) 👋 
+# Hi there, I'm Shubham - aka Inferno 
 
-## I'm a Student, Developer, and Explorer!!
+## I'm a Student, Analyst, and Explorer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other tech enthusiasts 
 - 💞️ I’m looking to collaborate on web design and IN HACKATHONS.
-- 🥅 2022 Goals: Learn more about startups
-- ⚡ Fun fact: I love to write urdu shayeri and play piano
+- 🥅 2024 Goals: Learn more about startups
+- ⚡ Fun fact: I love to learn new things
 
 ### Connect with me:
 
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="26px" title="Twitter" />](https://twitter.com/max_78653)
+
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="26px" title="Instagram" />](https://instagram.com/stilltenacious)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="26px" title="LinkedIn" />](https://www.linkedin.com/in/mohammad-hussain-8664a022a/)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="26px" title="StackOverflow" />](https://stackoverflow.com/users/20174042/mohammad-hussain)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/quora.svg" width="26px" title="Quora"/>](https://www.quora.com/profile/Mohammad-Hussain-181)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="26px" title="LinkedIn" />](www.linkedin.com/in/shubham-joshi-840a1b1ba)
+
+
 
 ### Languages and Tools:
 
