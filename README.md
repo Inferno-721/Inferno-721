@@ -14,8 +14,8 @@
 ### Connect with me:
 
 
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="26px" title="Instagram" />](https://instagram.com/stilltenacious)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="26px" title="LinkedIn" />](www.linkedin.com/in/shubham-joshi-840a1b1ba)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="26px" title="Instagram" />]()
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="26px" title="LinkedIn" />]([www.linkedin.com/in/shubham-joshi-840a1b1ba](https://www.linkedin.com/in/shubham-joshi-840a1b1ba/))
 
 
 
