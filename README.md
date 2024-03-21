@@ -1,35 +1,23 @@
+<h1 align="center">Hi 👋, I'm Shubham - aka Inferno</h1>
+<h3 align="center">I'm a Student, Analyst, and Explorer!!</h3>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+- 🔭 I’m currently working on **learning everything 🤣**
 
-# Hi there, I'm Shubham - aka Inferno 
+- 🌱 I’m currently learning **Machine Learning and Generative AI**
 
-## I'm a Student, Analyst, and Explorer!!
+- 👯 I’m looking to collaborate on **collaborate with other tech enthusiasts**
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other tech enthusiasts 
-- 💞️ I’m looking to collaborate on web design and IN HACKATHONS.
-- 🥅 2024 Goals: Learn more about startups
-- ⚡ Fun fact: I love to learn new things
+- 📫 How to reach me **21joshishubham@gmail.com**
 
-### Connect with me:
+- ⚡ Fun fact **I love to learn new things**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-joshi-840a1b1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-joshi-840a1b1ba/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/inferno721/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/inferno721/" height="30" width="40" /></a>
+</p>
 
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="26px" title="Instagram" />]()
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="26px" title="LinkedIn" />]([www.linkedin.com/in/shubham-joshi-840a1b1ba](https://www.linkedin.com/in/shubham-joshi-840a1b1ba/))
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-
-
-### Languages and Tools:
-
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="30px" title="Python" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="30" title="React" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="30" title="Sass" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="30" title="JSON" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="30" title="JavaScript" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="30" title="C++"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="30" title="MongoDB" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="30" title="Ubuntu" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="30" title="Microsoft Windows" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="30" title="Visual Studio Code" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/auth0.svg" width="30" title="Auth0" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Nodejs" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="30" title="Express" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="30" title="Heroku" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" title="Bootstrap" />
-<br />
-<br />
-
----
-<!---
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAX-786) 
----
-[![@max786's Holopin board](https://holopin.me/max786)](https://holopin.io/@max786)
-MAX-786/MAX-786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inferno-721&show_icons=true&locale=en&layout=compact" alt="inferno-721" /></p>
