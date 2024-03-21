@@ -1,3 +1,4 @@
+![logo](https://github.com/Inferno-721/Inferno-721/blob/main/black.jpg)
 <h1 align="center">Hi 👋, I'm Shubham - aka Inferno</h1>
 <h3 align="center">I'm a Student, Analyst, and Explorer!!</h3>
 
