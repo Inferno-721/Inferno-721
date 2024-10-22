@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **collaborate with other tech enthusiasts**
 
-- 📫 How to reach me **21joshishubham@gmail.com**
+- 📫 How to reach me **shubham05373@gmail.com**
 
 - ⚡ Fun fact **I love to learn new things**
 
